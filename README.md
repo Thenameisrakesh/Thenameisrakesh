@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Thenameisrakesh&label=Profile%20views&color=0e75b6&style=flat" alt="Thenameisrakesh" /> </p>
 
-- 🌱 I’m currently learning **System Design and Agentic AI**
-
 - 📑 Check out my resume here - [My Resume](https://drive.google.com/file/d/1i1ZjVkih7Mb6_9m65dSmkZVrV-VvdAH6/view)
 
 - 💻 All of my projects are available on [GitHub](https://github.com/Thenameisrakesh)
