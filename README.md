@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rakesh G</h1>
 <h3 align="center">A passionate Coder from India 🇮🇳 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandansgowda&label=Profile%20views&color=0e75b6&style=flat" alt="chandansgowda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Thenameisrakesh&label=Profile%20views&color=0e75b6&style=flat" alt="Thenameisrakesh" /> </p>
 
 - 🌱 I’m currently learning **System Design and Agentic AI**
 
