@@ -13,7 +13,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thenameisrakesh&show_icons=true&locale=en" alt="Thenameisrakesh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakeshg07&show_icons=true&locale=en" alt="Rakesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Thenameisrakesh&" alt="Thenameisrakesh" /></p>
 
